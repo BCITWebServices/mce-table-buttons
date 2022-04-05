@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file, per [the Ke
 
 ## [Unreleased] - TBD
 
+## [3.3.1.1] - 2022-04-05
+- Forking the original repo as the developer has made it unavaible for download.
+- Updating the plugin version in the plugin base file, adding a composer.json file and updating the CHANGELOG.md file.
+
 ## [3.3.1] - 2022-01-26
 **Note that this release replaces references of `master` with `trunk` so please plan to update any references you have from `master` to `trunk` to ensure you continue to receive the latest updates on this plugin.**
 
@@ -74,6 +78,7 @@ All notable changes to this project will be documented in this file, per [the Ke
 - Initial plugin release :tada:
 
 [Unreleased]: https://github.com/10up/mce-table-buttons/compare/trunk...develop
+[3.3.3.1]: https://github.com/BCITWebServices/mce-table-buttons/compare/3.3.1...3.3.1.1
 [3.3.1]: https://github.com/10up/mce-table-buttons/compare/3.3...3.3.1
 [3.3]: https://github.com/10up/mce-table-buttons/commit/7b1f57e
 [3.2]: https://plugins.trac.wordpress.org/changeset/971857/

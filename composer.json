@@ -1,0 +1,16 @@
+{
+  "name": "bcitwebservices/mce-table-buttons",
+  "description": "MCE Table Buttons",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/bcitwebservices/mce-table-buttons",
+  "authors": [
+    {
+      "name": "MCE Table Buttons",
+      "homepage": "https://wordpress.org/plugins/mce-table-buttons/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0"
+  }
+}
